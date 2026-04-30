@@ -27,8 +27,7 @@
 
       <!-- Sub -->
       <p ref="subRef" class="hero__sub rv" data-d="2">
-        Chegou a hora de você ter uma IA que sabe quem você é, seus projetos, tom de voz,
-        objetivos, antes mesmo de você digitar a primeira palavra.
+        Seus projetos, tom de voz, objetivos, antes mesmo de você digitar a primeira palavra.
       </p>
 
       <!-- Stats ticker -->
