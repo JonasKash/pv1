@@ -8,7 +8,7 @@
           Da bagunça ao<br />Segundo Cérebro em 1 hora
         </h2>
         <p class="section-sub rv" data-d="2">
-          Implementação remota, guiada e sem complicação.
+          Dentro de 1 hora sua IA vai te conhecer de verdade. Seus projetos, seu tom, seus objetivos
         </p>
       </div>
 

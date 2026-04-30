@@ -6,11 +6,8 @@
     <div class="site-max pricing__inner">
       <div class="section-header rv">
         <span class="tag tag--teal mono">Investimento único</span>
-        <h2 class="section-h2 rv" data-d="1">
-          Ative seu Segundo Cérebro<br />agora mesmo
-        </h2>
         <p class="section-sub rv" data-d="2">
-          Implementação remota. Sem assinatura. Pronto em 1 hora.
+          Implementação rápida. Sem assinatura. Pronto em 1 hora.
         </p>
       </div>
 
@@ -51,7 +48,7 @@
 
         <!-- Trust line -->
         <p class="price-card__trust mono">
-          // IMPLEMENTAÇÃO REMOTA · SUPORTE INCLUSO · SEM ASSINATURA
+          // IMPLEMENTAÇÃO RÁPIDA · SUPORTE INCLUSO · SEM ASSINATURA
         </p>
       </div>
     </div>
@@ -62,11 +59,10 @@
 import { useGSAP } from '~/composables/useGSAP'
 
 const features = [
-  { text: 'Contexto permanente injetado no Claude / ChatGPT', color: 'var(--accent-l)' },
-  { text: 'Tom de voz, projetos e objetivos configurados',      color: 'var(--accent-l)' },
-  { text: 'Agentes autônomos prontos para operar',              color: 'var(--mint)' },
-  { text: 'Memória infinita — nunca comece do zero',            color: 'var(--mint)' },
-  { text: 'Guia de uso + suporte pós-entrega',                  color: 'var(--fg3)' },
+  { text: '30 Prompts Estratégicos → R$97', color: 'var(--accent-l)' },
+  { text: '3 Agentes Plug & Play → R$197',   color: 'var(--accent-l)' },
+  { text: 'Agente Transcrição de Reunião → R$47', color: 'var(--mint)' },
+  { text: 'Comunidade Exclusiva → R$67',       color: 'var(--mint)' },
 ]
 
 const { revealOnScroll } = useGSAP()

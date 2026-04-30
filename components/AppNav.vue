@@ -13,7 +13,7 @@
         rel="noopener"
         class="btn btn--sm btn--primary nav__cta"
       >
-        Ativar por R$37
+        Ativar Agora
       </a>
     </div>
   </nav>

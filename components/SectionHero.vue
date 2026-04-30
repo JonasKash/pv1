@@ -27,24 +27,19 @@
 
       <!-- Sub -->
       <p ref="subRef" class="hero__sub rv" data-d="2">
-        Imagina a IA que já sabe quem você é — seus projetos, tom de voz e objetivos —
-        antes de você digitar a primeira palavra.
+        Chegou a hora de você ter uma IA que sabe quem você é, seus projetos, tom de voz,
+        objetivos, antes mesmo de você digitar a primeira palavra.
       </p>
 
       <!-- Stats ticker -->
       <div ref="statsRef" class="hero__stats rv" data-d="3">
         <div class="stat">
-          <span class="stat__val">3×</span>
-          <span class="stat__label mono">Recall de marca</span>
+          <span class="stat__val">+80%</span>
+          <span class="stat__label mono">Redução em tokens</span>
         </div>
         <div class="stat__divider" aria-hidden="true" />
         <div class="stat">
-          <span class="stat__val">+20%</span>
-          <span class="stat__label mono">Top-of-mind</span>
-        </div>
-        <div class="stat__divider" aria-hidden="true" />
-        <div class="stat">
-          <span class="stat__val">1h</span>
+          <span class="stat__val">30 min</span>
           <span class="stat__label mono">Para ativar</span>
         </div>
       </div>
@@ -57,10 +52,7 @@
           rel="noopener"
           class="btn btn--lg btn--primary"
         >
-          Ativar meu Segundo Cérebro · R$37 →
-        </a>
-        <a href="#como-funciona" class="btn btn--ghost" @click.prevent="scrollDown">
-          Ver como funciona
+          Ativar Agora →
         </a>
       </div>
 

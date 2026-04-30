@@ -20,7 +20,7 @@
       </h2>
 
       <p class="cta-sub rv" data-d="2">
-        Implementação remota. Sem enrolação. Pronto em 1 hora.
+        Implementação rápida. Sem enrolação. Pronto em 1 hora.
       </p>
 
       <div class="cta-actions rv" data-d="3">
@@ -30,12 +30,12 @@
           rel="noopener"
           class="btn btn--xl btn--primary pulse-btn"
         >
-          Ativar meu Segundo Cérebro · R$37 →
+          Ativar Agora →
         </a>
       </div>
 
       <div class="cta-trust rv" data-d="4">
-        <span>✓ Implementação remota</span>
+        <span>✓ Implementação rápida</span>
         <span>✓ Suporte incluso</span>
         <span>✓ Funciona no plano gratuito do Claude</span>
       </div>
